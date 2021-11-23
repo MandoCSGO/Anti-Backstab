@@ -11,5 +11,3 @@ sm_antistab_color_red - Sets the red color value of knife immunity glow.
 sm_antistab_color_green - Sets the green color value of knife immunity glow.
 
 sm_antistab_color_blue - Sets the blue color value of knife immunity glow.
-
-sm_antistab_color_alpha - Sets the alpha value (transparency) of knife immunity glow.
